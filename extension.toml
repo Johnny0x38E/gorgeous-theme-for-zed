@@ -1,0 +1,7 @@
+id = "gorgeous"
+name = "Gorgeous"
+version = "0.0.1"
+schema_version = 1
+authors = ["Johnny"]
+description = "Dark theme family inspired by JetBrains IDEs and Xcode, adapted and optimized for Zed"
+repository = "https://github.com/Johnny0x38E/gorgeous-theme-for-zed"

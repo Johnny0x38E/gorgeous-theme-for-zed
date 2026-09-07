@@ -341,7 +341,7 @@
                         "font_weight": null
                     },
                     "operator": {
-                        "color": "#efb080ff",
+                        "color": "#a8a8a8ff",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -480,10 +480,17 @@
                         "font_style": null,
                         "font_weight": null
                     },
+                    "variable.special": {
+                        "color": "#efb080ff",
+                        "font_style": "italic"
+                    },
                     "variable.parameter": {
                         "color": "#f8c762ff",
                         "font_style": null,
                         "font_weight": null
+                    },
+                    "lifetime": {
+                        "color": "#82d2ceff"
                     }
                 }
             }
@@ -737,7 +744,7 @@
                         "color": "#2aacb8ff"
                     },
                     "operator": {
-                        "color": "#cf8e6dff"
+                        "color": "#a8a8a8ff"
                     },
                     "predictive": {
                         "color": "#ff00ffff",
@@ -807,7 +814,8 @@
                         "color": "#c2c2c2ff"
                     },
                     "variable.special": {
-                        "color": "#e59eaeff"
+                        "color": "#d5b778ff",
+                        "font_style": "italic"
                     },
                     "variant": {
                         "color": "#ff00ffff"
@@ -1038,7 +1046,7 @@
                         "color": "#2aacb8ff"
                     },
                     "operator": {
-                        "color": "#cf8e6dff"
+                        "color": "#a8a8a8ff"
                     },
                     "predictive": {
                         "color": "#ff00ffff"
@@ -1107,7 +1115,8 @@
                         "color": "#c2c2c2ff"
                     },
                     "variable.special": {
-                        "color": "#e59eaeff"
+                        "color": "#d5b778ff",
+                        "font_style": "italic"
                     },
                     "variant": {
                         "color": "#ff00ffff"
@@ -1365,7 +1374,7 @@
                         "color": "#eeb25fff"
                     },
                     "operator": {
-                        "color": "#6c95ebff"
+                        "color": "#a8a8a8ff"
                     },
                     "preproc": {
                         "color": "#6c95ebff"
@@ -1409,6 +1418,9 @@
                     "variable.special": {
                         "color": "#c191ffcf",
                         "font_style": "italic"
+                    },
+                    "lifetime": {
+                        "color": "#6c95ebff"
                     }
                 }
             }
@@ -1575,10 +1587,12 @@
                         "color": "#eeb25fff"
                     },
                     "comment": {
-                        "color": "#666666ff"
+                        "color": "#666666ff",
+                        "font_style": "italic"
                     },
                     "comment.doc": {
-                        "color": "#666666ff"
+                        "color": "#666666ff",
+                        "font_style": "italic"
                     },
                     "constant": {
                         "color": "#eeb25fff"
@@ -1618,7 +1632,7 @@
                         "color": "#eeb25fff"
                     },
                     "operator": {
-                        "color": "#6c95ebff"
+                        "color": "#a8a8a8ff"
                     },
                     "preproc": {
                         "color": "#6c95ebff"
@@ -1660,7 +1674,11 @@
                         "color": "#c2c2c2ff"
                     },
                     "variable.special": {
-                        "color": "#c191ffcf"
+                        "color": "#c191ffcf",
+                        "font_style": "italic"
+                    },
+                    "lifetime": {
+                        "color": "#6c95ebff"
                     }
                 }
             }
@@ -1904,7 +1922,7 @@
                         "color": "#eeb25fff"
                     },
                     "operator": {
-                        "color": "#fc72b2ff"
+                        "color": "#a8a8a8ff"
                     },
                     "preproc": {
                         "color": "#fda150ff"
@@ -1938,6 +1956,16 @@
                     },
                     "variable": {
                         "color": "#c2c2c2ff"
+                    },
+                    "variable.special": {
+                        "color": "#62c5e0ff",
+                        "font_style": "italic"
+                    },
+                    "lifetime": {
+                        "color": "#fc72b2ff"
+                    },
+                    "punctuation": {
+                        "color": "#a3b1bfff"
                     }
                 }
             }
@@ -2153,7 +2181,7 @@
                         "color": "#eeb25fff"
                     },
                     "operator": {
-                        "color": "#fc72b2ff"
+                        "color": "#a8a8a8ff"
                     },
                     "preproc": {
                         "color": "#fda150ff"
@@ -2187,6 +2215,16 @@
                     },
                     "variable": {
                         "color": "#c2c2c2ff"
+                    },
+                    "variable.special": {
+                        "color": "#62c5e0ff",
+                        "font_style": "italic"
+                    },
+                    "lifetime": {
+                        "color": "#fc72b2ff"
+                    },
+                    "punctuation": {
+                        "color": "#a3b1bfff"
                     }
                 }
             }
@@ -2486,12 +2524,15 @@
                         "color": "#c3c1baff"
                     },
                     "variable.special": {
-                        "color": "#d87757ff",
+                        "color": "#5cacdeff",
                         "font_style": "italic"
                     },
                     "variable.parameter": {
                         "color": "#b7b5a6ff",
                         "font_style": "italic"
+                    },
+                    "lifetime": {
+                        "color": "#d87757ff"
                     }
                 }
             }
@@ -2791,12 +2832,15 @@
                         "color": "#2b2820ff"
                     },
                     "variable.special": {
-                        "color": "#cb6441ff",
+                        "color": "#2a7eb5ff",
                         "font_style": "italic"
                     },
                     "variable.parameter": {
                         "color": "#2b2820ff",
                         "font_style": "italic"
+                    },
+                    "lifetime": {
+                        "color": "#cb6441ff"
                     }
                 }
             }
@@ -2942,7 +2986,7 @@
                         "color": "#6851a2"
                     },
                     "operator": {
-                        "color": "#ce4770"
+                        "color": "#7d6f6f"
                     },
                     "preproc": {
                         "color": "#6851a2"
@@ -2996,8 +3040,11 @@
                         "color": "#2c232e"
                     },
                     "variable.special": {
-                        "color": "#72696d",
+                        "color": "#2473b6",
                         "font_style": "italic"
+                    },
+                    "lifetime": {
+                        "color": "#ce4770"
                     }
                 },
                 "tab.active_background": "#f8efe7",

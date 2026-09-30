@@ -691,7 +691,8 @@
                         "color": "#2aacb8ff"
                     },
                     "comment": {
-                        "color": "#555555ff"
+                        "color": "#555555ff",
+                        "font_style": "italic"
                     },
                     "comment.doc": {
                         "color": "#555555ff",
@@ -713,7 +714,9 @@
                         "font_style": "italic"
                     },
                     "emphasis.strong": {
-                        "color": "#c2c2c2ff"
+                        "color": "#c2c2c2ff",
+                        "font_style": "italic",
+                        "font_weight": 600
                     },
                     "enum": {
                         "color": "#ff00ffff"
@@ -731,7 +734,8 @@
                         "color": "#868a91ff"
                     },
                     "keyword": {
-                        "color": "#cf8e6dff"
+                        "color": "#cf8e6dff",
+                        "font_style": "italic"
                     },
                     "label": {
                         "color": "#ff00ffff"
@@ -997,25 +1001,31 @@
                         "color": "#2aacb8ff"
                     },
                     "comment": {
-                        "color": "#666666ff"
+                        "color": "#666666ff",
+                        "font_style": "italic"
                     },
                     "comment.doc": {
-                        "color": "#666666ff"
+                        "color": "#666666ff",
+                        "font_style": "italic"
                     },
                     "constant": {
-                        "color": "#2aacb8ff"
+                        "color": "#2aacb8ff",
+                        "font_style": "italic"
                     },
                     "constructor": {
-                        "color": "#57aaf7ff"
+                        "color": "#57aaf7ff",
+                        "font_style": "italic"
                     },
                     "embedded": {
                         "color": "#6aab73ff"
                     },
                     "emphasis": {
-                        "color": "#c2c2c2ff"
+                        "color": "#c2c2c2ff",
+                        "font_style": "italic"
                     },
                     "emphasis.strong": {
                         "color": "#c2c2c2ff",
+                        "font_style": "italic",
                         "font_weight": 600
                     },
                     "enum": {
@@ -1034,7 +1044,8 @@
                         "color": "#868a91ff"
                     },
                     "keyword": {
-                        "color": "#cf8e6dff"
+                        "color": "#cf8e6dff",
+                        "font_style": "italic"
                     },
                     "label": {
                         "color": "#ff00ffff"
@@ -1890,8 +1901,7 @@
                         "color": "#eeb25fff"
                     },
                     "emphasis": {
-                        "color": "#81d0faff",
-                        "font_style": "italic"
+                        "color": "#81d0faff"
                     },
                     "emphasis.strong": {
                         "color": "#81d0faff",
@@ -1958,8 +1968,7 @@
                         "color": "#c2c2c2ff"
                     },
                     "variable.special": {
-                        "color": "#62c5e0ff",
-                        "font_style": "italic"
+                        "color": "#62c5e0ff"
                     },
                     "lifetime": {
                         "color": "#fc72b2ff"
@@ -2135,7 +2144,8 @@
                         "color": "#666666ff"
                     },
                     "comment.doc": {
-                        "color": "#666666ff"
+                        "color": "#666666ff",
+                        "font_style": "italic"
                     },
                     "constant": {
                         "color": "#eeb25fff"
@@ -2217,8 +2227,7 @@
                         "color": "#c2c2c2ff"
                     },
                     "variable.special": {
-                        "color": "#62c5e0ff",
-                        "font_style": "italic"
+                        "color": "#62c5e0ff"
                     },
                     "lifetime": {
                         "color": "#fc72b2ff"
@@ -2245,7 +2254,7 @@
                 "editor.active_line.background": "#1b1b1b00",
                 "editor.document_highlight.read_background": "#1b1b1b40",
                 "editor.document_highlight.write_background": "#1b7ede30",
-                "editor.code_lens.foreground": "#6b6961ff",
+                "editor.code_lens.foreground": "#555555ff",
                 "search.match_background": "#d8775730",
                 "text.accent": "#d87757ff",
                 "editor.invisible": "#3e3e3860",
@@ -2402,11 +2411,12 @@
                 ],
                 "syntax": {
                     "comment": {
-                        "color": "#6b6961ff",
+                        "color": "#555555ff",
                         "font_style": "italic"
                     },
                     "keyword": {
-                        "color": "#d87757ff"
+                        "color": "#d87757ff",
+                        "font_style": "italic"
                     },
                     "operator": {
                         "color": "#9a988fff"
@@ -2431,7 +2441,8 @@
                         "font_style": "italic"
                     },
                     "constant": {
-                        "color": "#d4a06aff"
+                        "color": "#d4a06aff",
+                        "font_style": "italic"
                     },
                     "function": {
                         "color": "#b39cf5ff"
@@ -2469,10 +2480,11 @@
                     },
                     "heading": {
                         "color": "#d87757ff",
-                        "font_weight": 700
+                        "font_weight": 600
                     },
                     "emphasis.strong": {
-                        "font_weight": 700
+                        "font_style": "italic",
+                        "font_weight": 600
                     },
                     "emphasis": {
                         "font_style": "italic"
@@ -2500,7 +2512,8 @@
                         "color": "#d87757ff"
                     },
                     "constructor": {
-                        "color": "#b39cf5ff"
+                        "color": "#b39cf5ff",
+                        "font_style": "italic"
                     },
                     "label": {
                         "color": "#d87757ff"
@@ -2515,7 +2528,7 @@
                         "color": "#4ec2c2ff"
                     },
                     "comment.doc": {
-                        "color": "#6b6961ff",
+                        "color": "#555555ff",
                         "font_style": "italic"
                     },
                     "text.literal": {
@@ -2715,7 +2728,8 @@
                         "font_style": "italic"
                     },
                     "keyword": {
-                        "color": "#cb6441ff"
+                        "color": "#cb6441ff",
+                        "font_style": "italic"
                     },
                     "operator": {
                         "color": "#5a5045ff"
@@ -2740,7 +2754,8 @@
                         "font_style": "italic"
                     },
                     "constant": {
-                        "color": "#2b2820ff"
+                        "color": "#2b2820ff",
+                        "font_style": "italic"
                     },
                     "function": {
                         "color": "#8b67c9ff"
@@ -2778,10 +2793,11 @@
                     },
                     "heading": {
                         "color": "#cb6441ff",
-                        "font_weight": 700
+                        "font_weight": 600
                     },
                     "emphasis.strong": {
-                        "font_weight": 700
+                        "font_style": "italic",
+                        "font_weight": 600
                     },
                     "emphasis": {
                         "font_style": "italic"
@@ -2809,7 +2825,8 @@
                         "color": "#cb6441ff"
                     },
                     "constructor": {
-                        "color": "#8b67c9ff"
+                        "color": "#8b67c9ff",
+                        "font_style": "italic"
                     },
                     "label": {
                         "color": "#cb6441ff"

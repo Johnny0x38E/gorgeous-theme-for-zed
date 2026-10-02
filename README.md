@@ -48,10 +48,13 @@ dark/soft variants per family).
 
 ## Installation
 
-1. Open Zed
-2. Open the Extensions page (`zed: extensions`)
-3. Search for "Gorgeous" and install
-4. Select a Gorgeous theme via the theme selector (`theme selector`)
+This theme is not in the Zed extension registry yet, and there is no plan to submit it in the
+near term. To use it, install it manually:
+
+1. Download [`themes/Gorgeous.json`](themes/Gorgeous.json), or copy its contents.
+2. Create `~/.config/zed/themes/` if it does not exist, then save the file there as
+   `Gorgeous.json`.
+3. Restart Zed, then select a Gorgeous theme via the theme selector (`theme selector`).
 
 ## Development
 
